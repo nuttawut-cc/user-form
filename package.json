@@ -17,7 +17,7 @@
     "formik": "^2.0.6",
     "react": "^16.10.2",
     "react-dom": "^16.10.2",
-    "serialize-javascript": "^2.1.1"
+    "serialize-javascript": "^3.1.0"
   },
   "devDependencies": {
     "@babel/core": "^7.6.4",
